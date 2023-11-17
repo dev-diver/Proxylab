@@ -1,4 +1,6 @@
 # Targets
+echoServer/client
+echoServer/server
 tiny/tiny
 tiny/cgi-bin/adder
 proxy
